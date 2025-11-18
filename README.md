@@ -7,11 +7,11 @@ The SAMA5D27(T)-V/8GW MPU is offered in a compact 9x9x1.2 mm TFBGA289 package wi
 For additional information about this product, please refer to the links provided below.
 
 * Documentation
-  * [SAMA5D2 Datasheet](SAMA5D2%20Series%20Datasheet%20-%2060001476K.pdf) and [SAMA5D2 Errata](SAMA5D2%20Series%20Silicon%20Errata%20and%20Data%20Sheet%20Clarification%20-%2080000803J.pdf) including the TFBGA289 package
+  * [SAMA5D2 Datasheet](Documentation/) and [SAMA5D2 Errata](Documentation/) including the TFBGA289 package
 * DFP
-  * [DFP](Microchip.SAMA5D2_DFP-1.14.263.atpack) adding the support for this new package
+  * [DFP](Software/) adding the support for this new package
 * Design Files
-  * [IBIS File](SAMA5D27_TFBGA289.ibs)
-  * [BSDL File](SAMA5D27-TFBGA289.bsdl)
+  * [IBIS File](Hardware/)
+  * [BSDL File](Hardware/)
 
 Find the other available collaterals on the Microchip [SAMA5D27 product page](https://www.microchip.com/en-us/product/ATSAMA5D27)
